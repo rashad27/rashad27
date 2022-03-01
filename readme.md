@@ -10,7 +10,7 @@
 ## Education:
 
 #### 1. [Universitas Mercubuana](https://www.mercubuana.ac.id/id) | Bachelor of Electrical Engineering | Jakarta `2007-2010`
-#### 2. [Akatel Sandhy Putra Purwokerto -now ITT Telkom Purwokerto](https://ittelkom-pwt.ac.id/en/) | Diplma of Telecommunication Engineering | Purwokerto `2002-2006`
+#### 2. [Akatel Sandhy Putra Purwokerto](https://ittelkom-pwt.ac.id/en/) | Diploma of Telecommunication Engineering | Purwokerto `2002-2006`
   
 
 ## Work Experience:
@@ -25,6 +25,14 @@
    - 
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 3. [PT. Alita Praya Mitra](https://alita.id) | Project Coordinator | Jakarta `2012-2014`
+   - Managing Project for Software Division
+   - Presales Activity
+   - Research new Product
+#### 4. [PT. Alita Praya Mitra](https://alita.id) | Project Coordinator | Jakarta `2012-2014`
+   - Managing Project for Software Division
+   - Presales Activity
+   - Research new Product
 ---
 
 ### Languages and Tools:
